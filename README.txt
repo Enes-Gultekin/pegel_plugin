@@ -1,32 +1,10 @@
-Plugin Builder Results
+Pegel Plugin
 
-Your plugin test was created in:
-    C:/Users/user/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins\deneme
 
-Your QGIS plugin directory is located at:
-    C:/Users/user/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
-
-What's Next:
-
-  * Copy the entire directory containing your new plugin to the QGIS plugin
-    directory
-
-  * Compile the resources file using pyrcc5
-
-  * Run the tests (``make test``)
-
-  * Test the plugin by enabling it in the QGIS plugin manager
-
-  * Customize it by editing the implementation file: ``pegel_plugin.py``
-
-  * Create your own custom icon, replacing the default icon.png
-
-  * Modify your user interface by opening test_dialog_base.ui in Qt Designer
-
-  * You can use the Makefile to compile your Ui and resource files when
-    you make changes. This requires GNU make (gmake)
-
-For more information, see the PyQGIS Developer Cookbook at:
-http://www.qgis.org/pyqgis-cookbook/index.html
-
-(C) 2011-2018 GeoApt LLC - geoapt.com
+Water is one of the most crucial matters not only for humans but also for living creatures on earth.
+Besides the existence of water, managing water is a key factor for its consistency. Analyzing water
+quality, transportation, measurement of water level, some examples we need to keep water
+consistency. Therefore, there are many institutions that serve important taskforces. One of the
+institutions is Pegel. Pegel, with its many stations across Germany, provides diverse measurements for
+instance current water level, water temperature and miscellaneous. This plugin was developed for
+QGIS to visualize Pegel stations with their water level measurements.
